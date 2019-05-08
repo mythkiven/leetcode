@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/leetcode-Python-green.svg) ![](https://img.shields.io/badge/leetcode-C-red.svg) ![](https://img.shields.io/badge/leetcode-Java-blue.svg) ![](https://img.shields.io/badge/leetcode-JavaScript-success.svg)
+
 LeetCode
 ========
 
@@ -16,7 +18,7 @@ solution.js
 或者使用vscode
 ```
 
-LeetCode solutions in Python3、C、JAVA and JavaScript
+LeetCode solutions in Python3、C、Java and JavaScript
 
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|--------|
