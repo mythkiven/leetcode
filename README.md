@@ -22,4 +22,4 @@ LeetCode solutions in Python3、C、Java and JavaScript
 
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|--------|
-|0|[Two Sum](https://leetcode.com/problems/two-sum)|[python](000.TwoSum/Solution.py)、[c](000.TwoSum/Solution.c)、[java](000.TwoSum/Solution.java)、[JavaScript](000.TwoSum/Solution.js)|Easy
+|000|[Two Sum](https://leetcode.com/problems/two-sum)|[python](000.TwoSum/Solution.py)、[c](000.TwoSum/Solution.c)、[java](000.TwoSum/Solution.java)、[JavaScript](000.TwoSum/Solution.js)|Easy
