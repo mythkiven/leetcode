@@ -1,3 +1,18 @@
+# leetcode | LeetCode Solutions in Java, JS, C & Python3
+
+Algorithm and coding-interview solution archive with runnable single-file examples in Python, C, Java, and JavaScript.
+
+Keywords: leetcode solutions, coding interview python, leetcode c java, algorithm practice, data structures leetcode
+
+## Quick Start
+
+```bash
+# Python example
+cd ./000.TwoSum/ && python3 Solution.py
+# C example
+cd ./000.TwoSum/ && gcc Solution.c -o Solution && ./Solution
+```
+
 ![](https://img.shields.io/badge/leetcode-Python-green.svg) ![](https://img.shields.io/badge/leetcode-C-red.svg) ![](https://img.shields.io/badge/leetcode-Java-blue.svg) ![](https://img.shields.io/badge/leetcode-JavaScript-success.svg)
 
 LeetCode
