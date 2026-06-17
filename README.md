@@ -11,6 +11,10 @@ Keywords: leetcode solutions, coding interview python, leetcode c java, algorith
 cd ./000.TwoSum/ && python3 Solution.py
 # C example
 cd ./000.TwoSum/ && gcc Solution.c -o Solution && ./Solution
+# Java example
+cd ./000.TwoSum/ && javac Solution.java && java Solution
+# JavaScript example
+cd ./000.TwoSum/ && node Solution.js
 ```
 
 ![](https://img.shields.io/badge/leetcode-Python-green.svg) ![](https://img.shields.io/badge/leetcode-C-red.svg) ![](https://img.shields.io/badge/leetcode-Java-blue.svg) ![](https://img.shields.io/badge/leetcode-JavaScript-success.svg)
