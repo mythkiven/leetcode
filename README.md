@@ -39,6 +39,10 @@ solution.js
 
 LeetCode solutions in Python3、C、Java and JavaScript
 
+## Folder Layout
+
+Each problem uses `NNN.ProblemName/` (e.g. `000.TwoSum/`) with `Solution.py`, `Solution.c`, `Solution.java`, and `Solution.js` when available.
+
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|--------|
 |000|[Two Sum](https://leetcode.com/problems/two-sum)|[python](000.TwoSum/Solution.py)、[c](000.TwoSum/Solution.c)、[java](000.TwoSum/Solution.java)、[JavaScript](000.TwoSum/Solution.js)|Easy
