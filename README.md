@@ -29,7 +29,7 @@ LeetCode
 solution.c
     cd ./000.TwoSum/ && gcc Solution.c -o Solution && ./Solution
 solution.py
-    cd ./000.TwoSum/ && py3 Solution.py
+    cd ./000.TwoSum/ && python3 Solution.py
 solution.java
     cd ./000.TwoSum/ && javac Solution.java && java Solution
 solution.js
