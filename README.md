@@ -55,6 +55,10 @@ Each problem uses `NNN.ProblemName/` (e.g. `000.TwoSum/`) with `Solution.py`, `S
 
 MIT — see [LICENSE](LICENSE).
 
+## Contributing
+
+Add a new `NNN.ProblemName/` folder with language solutions, then update the table above.
+
 
 
 
