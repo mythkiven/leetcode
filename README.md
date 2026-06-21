@@ -23,6 +23,9 @@ Python 3, GCC, JDK, and Node.js for running the multi-language examples locally.
 
 **IDE:** Open any `000.TwoSum/Solution.*` file in VS Code for quick navigation across languages.
 
+**Browse:** List all problem folders with `ls -d */` from the repository root.
+**Search:** Filter by number prefix, e.g. `ls -d 1* */` for problems in the 100–199 range.
+
 ![](https://img.shields.io/badge/leetcode-Python-green.svg) ![](https://img.shields.io/badge/leetcode-C-red.svg) ![](https://img.shields.io/badge/leetcode-Java-blue.svg) ![](https://img.shields.io/badge/leetcode-JavaScript-success.svg)
 
 LeetCode
