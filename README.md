@@ -25,6 +25,8 @@ Python 3, GCC, JDK, and Node.js for running the multi-language examples locally.
 
 **Browse:** List all problem folders with `ls -d */` from the repository root.
 **Search:** Filter by number prefix, e.g. `ls -d 1* */` for problems in the 100–199 range.
+**Clone:** Shallow clone with `git clone --depth=1 git@github.com:mythkiven/leetcode.git` for a quick read-only checkout.
+**Verify:** Run one language from Quick Start before bulk edits to confirm your local toolchain.
 
 ![](https://img.shields.io/badge/leetcode-Python-green.svg) ![](https://img.shields.io/badge/leetcode-C-red.svg) ![](https://img.shields.io/badge/leetcode-Java-blue.svg) ![](https://img.shields.io/badge/leetcode-JavaScript-success.svg)
 
